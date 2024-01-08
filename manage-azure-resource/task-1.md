@@ -14,10 +14,10 @@ All resources having same life cycle ideally should belong to same Resource Grou
 2. Click on Search-box and search for Resource Group and create a new RG
 3.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 4. Select Subscription, Give a name to resource group  then select nearest zone .Afterwards Review and Create .
 5.  &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 6.
 

@@ -4,7 +4,7 @@ description: >-
   get hands-on Azure Administrative features.
 ---
 
-# Overview
+# 💻 Manage Azure Resource
 
 ### Objective&#x20;
 
@@ -16,4 +16,4 @@ description: >-
 
 Project Architecture&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Architecture Diagram </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Architecture Diagram </p></figcaption></figure>
