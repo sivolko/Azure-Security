@@ -10,3 +10,5 @@
   * [Page 1](nsg-and-asg/page-1.md)
   * [Page 2](nsg-and-asg/page-2.md)
 * [💂♂ Perimeter Security](perimeter-security.md)
+* [🏗 IaaC](iaac/README.md)
+  * [Installation](iaac/installation.md)
