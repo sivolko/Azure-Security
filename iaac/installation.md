@@ -80,6 +80,6 @@ terraform -help
 ```
 {% endcode %}
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Installation Verification </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Installation Verification </p></figcaption></figure>
 
 ## <mark style="background-color:purple;">VS Code Extension Installation</mark>&#x20;
