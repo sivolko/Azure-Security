@@ -2,6 +2,17 @@
 description: >-
   In this mini project, let's perform basic Azure Resource Management tasks to
   get hands-on Azure Administrative features.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 💻 Manage Azure Resource

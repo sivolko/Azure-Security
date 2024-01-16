@@ -2,6 +2,17 @@
 description: >-
   This task we'll create a RG to our nearest location and deploy resources
   inside it.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Task 1

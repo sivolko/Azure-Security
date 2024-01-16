@@ -1,5 +1,16 @@
 ---
 description: Please refer official documentation for latest changes and installation
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Installation

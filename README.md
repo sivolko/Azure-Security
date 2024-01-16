@@ -2,6 +2,17 @@
 description: >-
   This is Azure basics to Advance security Lab project in different modules
   wise.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👺 Azure Security Project Lab
