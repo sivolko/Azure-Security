@@ -44,16 +44,14 @@ All resources having same life cycle ideally should belong to same Resource Grou
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
+10. &#x20;Enable Public Access only in <mark style="color:red;">**Test**</mark> env
+
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+11. Don't enabled shared Disk option, because we do have to move this resource from 1 resource group to another.
 
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-7.
+12. &#x20;If you have any Tags, put there or else feel free to keep it blank.
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-8.
-
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-9.
-10.
-11.
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
