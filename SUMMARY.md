@@ -10,6 +10,7 @@
   * [Page 1](nsg-and-asg/page-1.md)
   * [Page 2](nsg-and-asg/page-2.md)
 * [💂‍♂️ Perimeter Security](perimeter-security.md)
+* [🗼 Network Security](network-security.md)
 * [🏗️ IaaC](iaac/README.md)
   * [Installation](iaac/installation.md)
 * [Azure  SAST Rules](azure-sast-rules.md)
