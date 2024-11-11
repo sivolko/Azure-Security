@@ -13,4 +13,5 @@
 * [🗼 Network Security](network-security.md)
 * [🏗️ IaaC](iaac/README.md)
   * [Installation](iaac/installation.md)
-* [Azure  SAST Rules](azure-sast-rules.md)
+* [Azure  SAST Rules](azure-sast-rules/README.md)
+  * [🔐 Authentication](azure-sast-rules/authentication.md)
