@@ -15,4 +15,5 @@
   * [Installation](iaac/installation.md)
 * [Azure  SAST Rules](azure-sast-rules/README.md)
   * [🔐 Authentication](azure-sast-rules/authentication.md)
+  * [🐳 Docker](azure-sast-rules/docker.md)
   * [👺 Code Like Hacker : Secure Terraform Practices](azure-sast-rules/code-like-hacker-secure-terraform-practices.md)
